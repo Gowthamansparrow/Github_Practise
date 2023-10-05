@@ -7,7 +7,7 @@ public class Sample
     }
 
 
-    public static void newFunction()
+    public static void newFunction5()
     {
         
     }
