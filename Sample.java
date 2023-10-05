@@ -11,6 +11,11 @@ public class Sample
     }
 
 
+    public static void newFunction()
+    {
+        
+    }
+
    
 
     public static void main(String[] args) {
